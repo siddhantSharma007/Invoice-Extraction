@@ -18,7 +18,7 @@ This project leverages the power of LLAMA 2, a cutting-edge natural language pro
 git clone https://github.com/siddhantSharma007/Invoice-Extraction.git
 
 # Navigate to the project directory
-cd POC-Invoice-Data-Extraction
+cd Invoice-Extraction
 
 # Install the required dependencies
 pip install -r [required libraries]
