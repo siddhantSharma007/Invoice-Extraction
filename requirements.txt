@@ -1,6 +1,5 @@
-langchain.llms
+langchain
 pypdf
-langchain.llms.openai
 pandas
 re
 langchain.prompts
