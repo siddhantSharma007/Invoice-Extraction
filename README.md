@@ -21,7 +21,7 @@ git clone https://github.com/siddhantSharma007/Invoice-Extraction.git
 cd Invoice-Extraction
 
 # Install the required dependencies
-pip install -r [required libraries]
+pip install -r requirements.txt
 
 # Run the application
 Streamlit run app.py
