@@ -2,4 +2,4 @@ langchain
 pandas
 streamlit
 python-dotenv
-PyPDF2
+PyPDF
