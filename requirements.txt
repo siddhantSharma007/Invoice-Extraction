@@ -1,5 +1,5 @@
 langchain
-pypdf
 pandas
 streamlit
-dotenv
+python-dotenv
+PyPDF2
