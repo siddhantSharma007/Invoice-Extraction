@@ -2,6 +2,6 @@ langchain
 pypdf
 pandas
 re
-langchain.prompts
+langchain
 streamlit
 dotenv
