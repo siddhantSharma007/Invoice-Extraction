@@ -1,0 +1,8 @@
+langchain.llms
+pypdf
+langchain.llms.openai
+pandas
+re
+langchain.prompts
+streamlit
+dotenv
