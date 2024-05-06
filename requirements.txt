@@ -1,6 +1,5 @@
 langchain
 pypdf
 pandas
-re
 streamlit
 dotenv
